@@ -1,0 +1,10 @@
+GUIA TRABAJOS A DISTANCIA - Proyecto Android
+1. Sube el contenido de esta carpeta a un repositorio nuevo de GitHub (incluida .github).
+2. Pestana Actions: se compila sola en unos minutos.
+3. Descarga el artefacto GuiaTrabajos-apk, descomprimelo e instala app-debug.apk.
+
+Plataformas (74): app/src/main/assets/herramientas.txt
+  una por linea: categoria|nombre|acceso|pago|puntos separados por ;;|ideal para|enlace|perfil
+  (si no hay enlace, el boton abre una busqueda en Google; "—" = dato no especificado)
+Fases, prompts, comparativa y avisos: app/src/main/java/com/guiatrabajos/app/Contenido.java
+Pestanas: Plataformas (buscar, filtrar, favoritos) / Fases (checklist) / Prompts (copiar) / Info
